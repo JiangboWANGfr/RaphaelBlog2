@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: "Home"
 date: 2023-10-24
 type: landing
 sections:
@@ -11,7 +11,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       biography:
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: "text-align: justify; font-size: 0.8em;"
   - block: collection
     content:
       filters:
@@ -19,5 +19,5 @@ sections:
           - blog
     design:
       spacing:
-        padding: ['3rem',30%, '6rem', 10%]
+        padding: ["3rem", 0, "6rem", 0]
 ---
