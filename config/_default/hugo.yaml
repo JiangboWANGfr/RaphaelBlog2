@@ -78,7 +78,7 @@ related:
     - name: tags
       weight: 100
     - name: categories
-      weight: 100
+      weight: 70
 security:
   _merge: deep
 sitemap:
