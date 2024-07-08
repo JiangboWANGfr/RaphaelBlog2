@@ -53,6 +53,4 @@ highlight_name: true
 website: "https://jiangbowangfr.github.io/AcademicCV/"
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello and welcome to my blog! I'm Jiangbo Wang, a technology enthusiast with a deep passion for engineering and innovation. This space is where I share my journey, thoughts, and experiences in the fields of intelligent systems, wireless communication, and more.
